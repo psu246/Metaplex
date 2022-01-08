@@ -1,0 +1,58 @@
+{
+    "name": "Babua Accelroad",
+    "description": "Apex Sigma Predator Hunter",
+    "image": "1.png",
+    "edition": 100,
+    "date": 1635751947299,
+    "symbol": "",
+    "seller_fee_basis_points": 3000,
+    "collection": {
+      "name": "My NFT Collection",
+      "family": "My Family"
+    },
+    "properties": {
+      "files": [
+        {
+          "url": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "PUBLIC ADDRESS OF THE CREATOR",
+          "share": 100
+        }
+      ]
+    },
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "big"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  }
